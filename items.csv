@@ -1,0 +1,5 @@
+ID,Name,Category,Type,Qty,Stock Qty,Location,StorageType,Grid Location,Barcode
+1,nuts m3,fastener,nuts,19,20,room,gridfinity,D2:2,123456789
+2,bolts mixed,fastener,bolts,30,0,garage,shelf,A1,589264
+3,bolts m3x10,fastener,bolts,40,20,room,gridfinity,D3:2,634574
+4,yellow led,electonic,diode,20,10,room,gridfinity,h3,9876543

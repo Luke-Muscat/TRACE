@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ sortItems()
+comment2.params=
+comment2.target=void\ initializeItems()
+comment3.params=
+comment3.target=void\ mainMenu()
+comment4.params=
+comment4.target=void\ listItems()
+comment5.params=
+comment5.target=void\ takeItem()
+comment6.params=
+comment6.target=void\ addItem()
+comment7.params=
+comment7.target=void\ deleteItem()
+comment8.params=
+comment8.target=void\ searchItems()
+comment9.params=
+comment9.target=void\ editItem()
+numComments=11

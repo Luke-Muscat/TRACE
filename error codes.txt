@@ -1,0 +1,6 @@
+Err 001: multiple instances of an item detected
+    To resolve make sure no 2 items have the same barcode or name
+    
+Err 002: invalid input
+
+Err 003: no item with search criteria found
